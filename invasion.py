@@ -30,10 +30,4 @@ def run_game():
         # Make the most recently drawn screen visible.
         pygame.display.flip()
 
-
-
-        
-
-
-
 run_game()
